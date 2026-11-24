@@ -1,14 +1,14 @@
-# Black Fox Group
+# Fox Next
 
-Black Fox Group is a software team. Official website: [foxnext.net](https://foxnext.net)
+Fox Next is a software team. Official website: [foxnext.net](https://foxnext.net)
 
-Black Fox Group  یک تیم نرم‌ افزاری است. سایت رسمی: [foxnext.net](https://foxnext.net/fa)
+Fox Next یک تیم نرم‌ افزاری است. سایت رسمی: [foxnext.net](https://foxnext.net/fa)
 
 ## Contact / تماس
 
 - Email / ایمیل : [support@foxnext.net](mailto:support@foxnext.net)
-- Telegram / تلگرام : [Black_Fox_Group](https://t.me/Black_Fox_Group)
-- Support / پشتیبانی : [HiBlackFox](https://t.me/HiBlackFox)
+- Telegram / تلگرام : [Fox_next](https://t.me/Fox_next)
+- Support / پشتیبانی : [HiFoxNext](https://t.me/HiFoxnext)
 - Contact page : [foxnext.net/contact](https://foxnext.net/contact.html) 
 - صفحه تماس : [foxnext.net/fa/contact](https://foxnext.net/fa/contact.html)
 
@@ -16,4 +16,4 @@ Black Fox Group  یک تیم نرم‌ افزاری است. سایت رسمی: [
 
 Ask product questions through the smart support bot:
 
-[BlackFox_Agent_Bot](https://t.me/BlackFox_Agent_Bot)
+[smart_support_bot](https://t.me/BlackFox_Agent_Bot)
