@@ -1,6 +1,6 @@
 # Fox Next
 
-**Fox Next** is an independent international software engineering company registered as a sole proprietorship in Harju maakond, Estonia (founded by Amir Najafzadeh). We engineer commercial and open-source software across **desktop (Windows)**, **mobile (Android)**, **cloud AI orchestration**, and **Linux server utilities**, and accept **custom software development** orders strictly for lawful, compliant commercial and enterprise applications.
+**Fox Next** is an independent international software engineering company registered as a sole proprietorship . We engineer commercial and open-source software across **desktop (Windows)**, **mobile (Android)**, **cloud AI orchestration**, and **Linux server utilities**, and accept **custom software development** orders strictly for lawful, compliant commercial and enterprise applications.
 
 > Official Corporate Portal: **[foxnext.net](https://foxnext.net/)** · Automation Control Portal: **[foxnext.online](https://foxnext.online/)**
 >
@@ -41,7 +41,7 @@
 
 ## شرکت نرم‌افزاری `Fox Next`
 
-شرکت نرم‌افزاری **`Fox Next`** (ثبت‌شده در استونی به نام `Amir Najafzadeh`) یک تیم مستقل بین‌المللی مهندسی نرم‌افزار در حوزه‌های **دسکتاپ (`Windows`)**، **موبایل (`Android`)**، **هوش مصنوعی و کلاد**، **مدیریت سرورهای لینوکس** و **ابزارهای متن‌باز** است و سفارش‌های طراحی و توسعه **نرم‌افزارهای سفارشی قانونی و مجاز** را می‌پذیرد.
+شرکت نرم‌افزاری **`Fox Next`** یک تیم مستقل بین‌المللی مهندسی نرم‌افزار در حوزه‌های **دسکتاپ (`Windows`)**، **موبایل (`Android`)**، **هوش مصنوعی و کلاد**، **مدیریت سرورهای لینوکس** و **ابزارهای متن‌باز** است و سفارش‌های طراحی و توسعه **نرم‌افزارهای سفارشی قانونی و مجاز** را می‌پذیرد.
 
 > وب‌سایت شرکت مادر: **[foxnext.net/fa](https://foxnext.net/fa/)** · پورتال اختصاصی پلتفرم اتوماسیون کنترل: **[foxnext.online/fa](https://foxnext.online/fa/)**
 
