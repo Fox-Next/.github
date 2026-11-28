@@ -16,7 +16,7 @@
 
 ## Free & Open-Source Utilities ($0)
 
-- **[Black Fox Config Builder](https://github.com/Fox-Next/blackfox-config-builder)** ([Overview](https://foxnext.net/en/black-fox-config-builder.html)) — MIT open-source Android companion for managing clients, VLESS/subscription links, and QR codes on existing 3X-UI panels.
+- **[Config Builder](https://github.com/Fox-Next/config-builder)** ([Overview](https://foxnext.net/en/black-fox-config-builder.html)) — MIT open-source Android companion for managing clients, VLESS/subscription links, and QR codes on existing 3X-UI panels.
 - **[Telegram Bot Expert Installer](https://github.com/Fox-Next/telegram-bot-expert-installer)** ([Overview](https://foxnext.net/en/telegram-bot-expert-installer.html)) — Windows control center to deploy, configure, back up, and monitor Telegram bots on Ubuntu/Debian VPS servers over SSH without Linux terminal work.
 - **[Smart Support Bot](https://github.com/Fox-Next/smart-support-bot)** ([Overview](https://foxnext.net/en/smart-support-bot.html)) — Open-source AI-powered Telegram support bot with a local Windows Manager for catalog and media publishing.
 
@@ -51,7 +51,7 @@
 - **[Wallet Recovery](https://foxnext.net/fa/wallet-recovery.html)** ([صفحه محصول](https://foxnext.net/fa/wallet-recovery.html) · [دانلود](https://foxnext.net/fa/download.html)) — ابزار بازیابی کاملاً آفلاین عبارات `12` تا `24` کلمه‌ای کیف‌پول روی سیستم شخصی و اندروید.
 
 ### ابزارهای رایگان و متن‌باز
-- **[Black Fox Config Builder](https://github.com/Fox-Next/blackfox-config-builder)** — همراه متن‌باز اندرویدی مدیریت کلاینت‌ها، لینک‌ها و `QR` روی پنل‌های `3X-UI` ([صفحه محصول](https://foxnext.net/fa/black-fox-config-builder.html)).
+- **[Config Builder](https://github.com/Fox-Next/config-builder)** — همراه متن‌باز اندرویدی مدیریت کلاینت‌ها، لینک‌ها و `QR` روی پنل‌های `3X-UI` ([صفحه محصول](https://foxnext.net/fa/black-fox-config-builder.html)).
 - **[Telegram Bot Expert Installer](https://github.com/Fox-Next/telegram-bot-expert-installer)** — ابزار ویندوزی نصب، مدیریت و بکاپ بات‌های تلگرام روی سرور لینوکس از طریق `SSH` ([صفحه محصول](https://foxnext.net/fa/telegram-bot-expert-installer.html)).
 - **[Smart Support Bot](https://github.com/Fox-Next/smart-support-bot)** — ربات پشتیبانی هوشمند تلگرام با کاتالوگ محصولات و پنل مدیریت ویندوزی ([صفحه محصول](https://foxnext.net/fa/smart-support-bot.html)).
 
